@@ -43,3 +43,4 @@ sudo tcpdump -i <interface> port <port_number>
 
 
 - xclip < test.txt
+- dpkg --print-architecture
