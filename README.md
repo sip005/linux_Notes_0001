@@ -44,3 +44,7 @@ sudo tcpdump -i <interface> port <port_number>
 
 - xclip < test.txt
 - dpkg --print-architecture
+
+
+## blogs
+- []How to Setup Passwordless SSH Login(https://linuxize.com/post/how-to-setup-passwordless-ssh-login/)
