@@ -47,4 +47,4 @@ sudo tcpdump -i <interface> port <port_number>
 
 
 ## blogs
-- 0001 [How to Setup Passwordless SSH Login}(https://linuxize.com/post/how-to-setup-passwordless-ssh-login/)
+- 0001 [How to Setup Passwordless SSH Login](https://linuxize.com/post/how-to-setup-passwordless-ssh-login/)
